@@ -702,9 +702,11 @@ header {
 }
 
 .portfolio-feature-item {
-  background-color: #fff;
-  border: 1px solid #e6e9ed;
-  color: #73879c;
+    background-color: #fff;
+    border: 1px solid #e6e9ed;
+    color: #73879c;
+    display: block;
+    box-shadow: 0 0 10px #cccccc85;
 }
 
 .portfolio-feature-item h4 {
