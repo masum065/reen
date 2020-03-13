@@ -20,7 +20,7 @@
             dots: true,
             loop: true,
             autoplay: true,
-            autoplayTimeout: 2500,
+            autoplayTimeout: 10000,
             autoplaySpeed: 1000,
             animateOut: 'fadeOut',
             navText: ["<i class='fa fa-angle-left'></i>", "<i class='fa fa-angle-right'></i>"]
